@@ -19,8 +19,12 @@ For each location of T over I, you store the metric in the result matrix R. Each
 #### Recommendation: 
 Save the input images (source and template images) under the same directory where the code is located.
 
-## Source image:
+## Results
+#### Source image:
+![alt text](https://github.com/bariarviv/Template-Matching/blob/master/sorce_image.jpg?raw=true "input")
 
-## Template image:
+#### Template image:
+![alt text](https://github.com/bariarviv/Template-Matching/blob/master/template_image.jpg?raw=true "input")
 
-## Template Matching Result:
+#### Template Matching Result:
+![alt text](https://github.com/bariarviv/Template-Matching/blob/master/result_image.jpg?raw=true "input")
