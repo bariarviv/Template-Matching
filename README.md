@@ -5,8 +5,10 @@ Installing openCV for Microsoft Visual Studio. You can use the following guide:
 
 https://www.deciphertechnic.com/install-opencv-with-visual-studio/
 
+
 ## What is template matching?
 Template matching is a technique for finding areas of an image that match (are similar) to a template image (patch).
+
 
 ## How does it work?
 We need two primary components:
@@ -18,6 +20,7 @@ For each location of T over I, you store the metric in the result matrix R. Each
 
 #### Recommendation: 
 Save the input images (source and template images) under the same directory where the code is located.
+
 
 ## Results
 #### Source image:
