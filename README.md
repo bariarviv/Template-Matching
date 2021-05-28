@@ -22,11 +22,17 @@ Save the input images (source and template images) under the same directory wher
 
 
 ## Results
-#### Source image
-![alt text](https://github.com/bariarviv/Template-Matching/blob/master/sorce_image.jpg?raw=true "input")
+#### Source image:
+<p align="center">
+  <img src="sorce_image.jpg">
+</p>
 
-#### Template image
-![alt text](https://github.com/bariarviv/Template-Matching/blob/master/template_image.jpg?raw=true "input")
+#### Template image:
+<p align="center">
+  <img src="template_image.jpg">
+</p>
 
-#### Template Matching Result
-![alt text](https://github.com/bariarviv/Template-Matching/blob/master/result_image.jpg?raw=true "input")
+#### Template Matching Result:
+<p align="center">
+  <img src="result_image.jpg">
+</p>
