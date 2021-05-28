@@ -1,4 +1,4 @@
-# Template-Matching
+# Template Matching
 
 ## Requirements
 Installing openCV for Microsoft Visual Studio. You can use the following guide: \
